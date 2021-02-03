@@ -1,5 +1,5 @@
 ### Hi there 👋
-Find a collection of my projects at [olifre.github.io](https://git.io/olifre).
+Find a collection of my projects and more about me at [olifre.github.io](https://git.io/olifre).
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=olifre&show_icons=true&theme=solarized-dark)
 
