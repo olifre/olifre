@@ -1,9 +1,10 @@
 ### Hi there 👋
 Find a collection of my projects and more about me at [olifre.github.io](https://olifre.github.io).
 
-![github stats](https://github-readme-stats.vercel.app/api?username=olifre&show_icons=true&theme=solarized-dark)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=olifre&show_icons=true&theme=solarized-dark) -->
+![github stats](./profile/stats.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olifre&theme=darkhub&column=6&row=2&margin-h=15&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=olifre&theme=darkhub&column=6&row=2&margin-h=15&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **olifre/olifre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
